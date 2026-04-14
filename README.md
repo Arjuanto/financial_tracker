@@ -35,7 +35,7 @@ Download the latest `.apk` from [Releases](../../releases) and install it on any
 ## Run locally
 
 ```bash
-git clone https://github.com/yourusername/finance-tracker
+git clone https://github.com/Arjuanto/financial_tracker
 cd finance-tracker
 flutter pub get
 flutter run
